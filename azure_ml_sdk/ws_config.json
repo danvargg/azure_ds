@@ -1,0 +1,5 @@
+{
+    "subscription_id": "1234567-abcde-890-fgh...",
+    "resource_group": "aml-resources",
+    "workspace_name": "aml-workspace"
+}
